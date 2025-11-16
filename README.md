@@ -9,7 +9,6 @@ Developed by **Milad Hadad**
 
 ---
 
-<!-- BADGES -->
 ![Release](https://img.shields.io/github/v/release/mohamadmilad1/QR-SUPER-PRO?style=for-the-badge&color=00c3ff)
 ![Downloads](https://img.shields.io/github/downloads/mohamadmilad1/QR-SUPER-PRO/total?style=for-the-badge&color=39ff14)
 ![Stars](https://img.shields.io/github/stars/mohamadmilad1/QR-SUPER-PRO?style=for-the-badge&color=fcee0c)
@@ -19,7 +18,7 @@ Developed by **Milad Hadad**
 
 ---
 
-## 🧩 درباره‌ی ابزار  
+## 🌱 درباره‌ی ابزار
 **QR SUPER PRO** یک ابزار سریع، تمیز و قابل‌حمل برای ساخت QR Code است.  
 بدون نصب، بدون دردسر — فقط اجرا کن و QR بساز.
 
@@ -39,9 +38,3 @@ Developed by **Milad Hadad**
 👉 **[دانلود نسخه v1.0.0](https://github.com/mohamadmilad1/QR-SUPER-PRO/releases/tag/v1.0.0)**
 
 ---
-
-<div align="center">
-  
-
-
-</div>
