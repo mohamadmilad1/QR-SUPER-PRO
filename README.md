@@ -23,4 +23,3 @@
 ![Made by](https://img.shields.io/badge/Made%20By-Milad%20Hadad-blue?style=for-the-badge)
 
 </div>
-.
