@@ -42,10 +42,6 @@ Developed by **Milad Hadad**
 
 <div align="center">
   
-اگر خواستی می‌تونم برای این پروژه  
-⚡ **لوگوی اختصاصی Cyber-Neon با اسم MiladTools بسازم** ⚡  
 
-کافیه بگی:  
-### «لوگو اختصاصی می‌خوام»
 
 </div>
